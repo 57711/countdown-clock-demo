@@ -2,7 +2,8 @@ This project is a countdown clock demo
 
 ## Available Props
 
-`Countdown.propTypes = {
+```
+Countdown.propTypes = {
 
     seconds: PropTypes.number.isRequired,
     
@@ -10,4 +11,5 @@ This project is a countdown clock demo
     
     timeFormat: PropTypes.func
     
-} `
+} 
+```
