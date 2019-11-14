@@ -10,4 +10,4 @@ This project is a countdown clock demo
     
     timeFormat: PropTypes.func
     
-}`
+} `
